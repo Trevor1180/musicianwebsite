@@ -1,0 +1,90 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+
+div.header {background-color: #8E5572;
+           font-family: 'Fjalla One', sans-serif;
+            color:#C2B97F;
+            display:flex;
+            justify-content:space-between;
+            }
+
+div.header div{border-right: 1px solid #979797;
+               padding:30px 0;
+               text-align: center;
+               width: 20%;}
+
+ div.header div:last-of-type {
+ 	border-right: none;
+ }              
+
+.nav-button {background-color: #C2B97F;
+	         width: 51px;
+	         padding-top: 21px;
+	         padding-bottom: 21px;
+	         padding-left: 28px;
+	         padding-right: 28px;
+	         border-radius: 30px;
+
+}
+
+div.intro {background-image: url(000036230001-1300x862.jpg);
+           padding-bottom: 400px;
+           padding-top:20px;
+           padding-right:50px;
+	       font-size:70px;
+	       font-family:'Fjalla One', sans-serif;
+	       color:#c2B97f;
+             }
+div.biography {background-color:#BCAA99;
+	           font-family:'Amatic SC', cursive;
+	           padding-top: 30px;
+	           padding-bottom: 100px;
+	           color:white;}
+
+div.biography2 {font-size:40px;}
+
+div.albums {background-color:#C2B97F;
+	           font-family:'Amatic SC', cursive;
+	           padding-top: 30px;
+	           padding-bottom: 100px;
+	           color:#8E5572;
+	           font-size:60px;}
+
+div.tours {background-color:white;
+	           font-family:'Amatic SC', cursive;
+	           padding-top: 30px;
+	           padding-bottom: 100px;
+	           color:#8E5572;
+	           font-size:60px;}
+
+div.footer {background-color: #8E5572;
+            font-family: 'Fjalla One', sans-serif;
+            color:#C2B97F;
+            border-bottom-width: 24px;
+            padding-top: 50px;
+            }
+
+div.footer img {width: 24px;} 
+
+div.click {font-size: 30px;
+           font-style: 'Fjalla One', sans-serif;}
+
+div.footer a {color: #8E5572;
+              background-color: #C2B97F;
+             width: 51px;
+             font-size: 30px;
+	         padding-top: 12px;
+	         padding-bottom: 8px;
+	         padding-left: 12px;
+	         padding-right: 14px;
+	         border-radius: 1px;
+	         margin-left: 10px;}
+	                   }
+
+
+	                   
+
+                   	           
